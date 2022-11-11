@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/prog.dir/cal_main.o CMakeFiles/prog.dir/add.o CMakeFiles/prog.dir/sub.o CMakeFiles/prog.dir/mul.o CMakeFiles/prog.dir/dur.o  -o prog 

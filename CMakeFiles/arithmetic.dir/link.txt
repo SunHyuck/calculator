@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC   -shared -Wl,-soname,libarithmetic.so -o libarithmetic.so CMakeFiles/arithmetic.dir/add.o CMakeFiles/arithmetic.dir/sub.o CMakeFiles/arithmetic.dir/mul.o CMakeFiles/arithmetic.dir/dur.o 

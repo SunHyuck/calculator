@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/sunny/autose-2022/T5/add.c
+arithmetic.h
+-
+
+/home/sunny/autose-2022/T5/cal_main.c
+stdio.h
+-
+stdlib.h
+-
+arithmetic.h
+-
+
+/home/sunny/autose-2022/T5/dur.c
+arithmetic.h
+-
+
+/home/sunny/autose-2022/T5/mul.c
+arithmetic.h
+-
+
+/home/sunny/autose-2022/T5/sub.c
+arithmetic.h
+-
+
+arithmetic.h
+
